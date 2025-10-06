@@ -1,4 +1,4 @@
-# Movie Theater Booking Web App for CS4300 HW#2
+**Movie Theater Booking Web App for CS4300 HW#2**
 
 This is a Django-based Movie Theater Booking Application that allows users to view movies, book seats, and check their booking history. 
 It can be hosted locally or through render. 
@@ -8,7 +8,7 @@ It can be hosted locally or through render.
 - Check booking history via the API
 
 
-## Project Structure
+**Project Structure**
 
 homework2/
 ├── bookings/ # Django models, views, templates
@@ -20,7 +20,7 @@ homework2/
 ├── db.sqlite3 
 └── staticfiles/ # Collected static files. Needed to make it format correctly on render
 
-## Setup Instructions
+**Setup Instructions**
 1. Clone repository
   - git clone https://github.com/Vinnie444444444/cs4300.git
 2. Set up Virtual Envioroment
@@ -37,7 +37,7 @@ homework2/
   - Locally: http://localhost:3000/
   - Render: https://movie-theater-booking-3cl2.onrender.com/
 
-## Endpoints 
+**Endpoints** 
 There is no functionality to swap between them, so they must be put into the url
 1. /api/movies/
 2. /api/seats/
