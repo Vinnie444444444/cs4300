@@ -11,13 +11,21 @@ It can be hosted locally or through render.
 **Project Structure**
 
 homework2/
+
 ├── bookings/ # Django models, views, templates
+
 ├── homework2_env/ 
+
 ├── movie_theater_booking/ # app folder
+
 ├── manage.py 
+
 ├── requirements.txt # Python dependencies remove gdp from it
+
 ├── render.yaml # render deployment file
+
 ├── db.sqlite3 
+
 └── staticfiles/ # Collected static files. Needed to make it format correctly on render
 
 **Setup Instructions**
