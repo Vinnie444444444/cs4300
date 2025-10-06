@@ -17,3 +17,4 @@ sqlparse==0.4.4
 supervisor==4.2.5
 uvicorn==0.37.0
 wheel==0.42.0
+whitenoise==6.11.0
