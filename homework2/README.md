@@ -38,10 +38,10 @@ homework2/
   - pip install -r requirements.txt
 4. Run server (locally)
   - python manage.py runserver 0.0.0.0:3000
-4.5 Run server through Render
+5. Run server through Render
   - Add Blue print through dashboard and connect cloned git repo
   - Change render root to homework2
-5. Access
+6. Access
   - Locally: http://localhost:3000/
   - Render: https://movie-theater-booking-3cl2.onrender.com/
 
